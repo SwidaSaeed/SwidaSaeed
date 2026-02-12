@@ -1,61 +1,144 @@
-Hi 👋 My name is Swida
-======================
+<!-- HERO SECTION -->
+<h1 align="center">Hi 👋 I'm Swida</h1>
 
-Data Analyst & Data Engineer in Training
-----------------------------------------
+<p align="center">
+  <b>Data Analyst & Data Engineer in Training</b>
+</p>
 
-I’m currently training to become a data professional, with a focus on data analysis and data engineering.
+<p align="center">
+  🎓 Software Engineering BSc • MSc Computational Finance  
+  <br>
+  📍 London, UK  
+  <br><br>
+  <a href="https://www.linkedin.com/in/swida-saeed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SwidaSaeed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-**🎓 Education & Training:**
+---
 
-\- BSc in Software Engineering
+## 👩‍💻 About Me
 
-\- MSc in Computational Finance
+I’m currently training to become a data professional, with a focus on **data analysis** and **data engineering**.
 
-\- Data Technician Bootcamp (Just IT)
+With a background in software development and quantitative finance, I enjoy transforming raw data into structured insights and building clean, reliable data workflows.
 
-**🛠 Tools & Technologies:**
+---
 
-\- Programming: Python, SQL
+## 🎓 Education & Professional Training
 
-\- Data Analysis: pandas, NumPy
+<div align="center">
 
-\- Visualisation: Power BI, Excel (Pivot Tables, VLOOKUP/XLOOKUP)
+🎓 **BSc Software Engineering**  
+🎓 **MSc Computational Finance**  
+🚀 **Data Technician Bootcamp – Just IT**
 
-\- Databases: SQL Server, PostgreSQL
+</div>
 
-\- Cloud & Data: Azure (Blob Storage, basic data services)
+---
 
-\- Version Control: Git, GitHub
+## 🛠 Tools & Technologies
 
-**🎯 Currently training towards:**
+<table>
+<tr>
 
-\- Data Analyst roles
+<td width="33%" valign="top">
 
-\- Data Engineer roles
+### 💻 Programming
+- Python  
+- SQL  
 
-\- Data Technician positions
+</td>
 
-**📊 What you’ll find here:**
+<td width="33%" valign="top">
 
-\- Data analysis and data engineering practice projects
+### 📊 Data Analysis
+- pandas  
+- NumPy  
 
-\- Jupyter notebooks and SQL scripts
+</td>
 
-\- Coursework and personal learning projects
+<td width="33%" valign="top">
 
-**🌱 Currently:**
+### 📈 Visualisation
+- Power BI  
+- Excel (Pivot Tables, VLOOKUP/XLOOKUP)  
 
-\- Building data projects to strengthen my portfolio
+</td>
 
-\- Developing ETL and data processing skills
+</tr>
 
-\- Improving Python, SQL, and Power BI
+<tr>
 
-Feel free to explore my repositories, and thanks for stopping by!
+<td width="33%" valign="top">
 
-* 🌍  I'm based in London
+### 🗄 Databases
+- SQL Server  
+- PostgreSQL  
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
+</td>
+
+<td width="33%" valign="top">
+
+### ☁ Cloud & Data
+- Azure (Blob Storage & foundational data services)  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔧 Version Control
+- Git  
+- GitHub  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🎯 Career Direction
+
+I am currently working towards:
+
+- Data Analyst roles  
+- Data Engineer roles  
+- Data Technician positions  
+
+---
+
+## 📂 What You’ll Find on My GitHub
+
+- 📊 Data analysis projects  
+- 🛠 SQL scripts & relational database projects  
+- 📓 Jupyter notebooks  
+- 🔄 ETL and data processing practice  
+- 📚 Coursework & personal learning projects  
+
+---
+
+## 🌱 Currently
+
+- Building portfolio-ready data projects  
+- Developing ETL and data processing skills  
+- Strengthening Python, SQL, and Power BI expertise  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwidaSaeed&show_icons=true&hide_border=true"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwidaSaeed&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile!
 </p>
